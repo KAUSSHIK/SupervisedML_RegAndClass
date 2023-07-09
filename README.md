@@ -1,2 +1,2 @@
 # SupervisedML_RegAndClass
-SuperivseD ML: Regression and Classification
+Supervised ML: Regression and Classification
